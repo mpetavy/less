@@ -151,6 +151,10 @@ github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742/go.mod h1:bx2lN
 github.com/modern-go/reflect2 v1.0.1/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
 github.com/mpetavy/common v1.1.31 h1:G26GagF3r0h/t80yFG0n8R1kGaM3LXHcJB0E/tt2MOI=
 github.com/mpetavy/common v1.1.31/go.mod h1:27v5+lsL7Y53hUd5SBGrKeA8w+8RstjM5xTEvRV8Mlw=
+github.com/mpetavy/common v1.1.32 h1:ewRypQ3YghTKYw/yfxA0A0E2zTeNQgQoAyOi3YhqipA=
+github.com/mpetavy/common v1.1.32/go.mod h1:27v5+lsL7Y53hUd5SBGrKeA8w+8RstjM5xTEvRV8Mlw=
+github.com/mpetavy/common v1.1.34 h1:52unDHXgxYP2T2/yZ51BKPsDhMNqj/+jFa4sa276l1I=
+github.com/mpetavy/common v1.1.34/go.mod h1:27v5+lsL7Y53hUd5SBGrKeA8w+8RstjM5xTEvRV8Mlw=
 github.com/mwitkow/go-conntrack v0.0.0-20161129095857-cc309e4a2223/go.mod h1:qRWi+5nqEBWmkhHvq77mSJWrCKwh8bxhgT7d/eI7P4U=
 github.com/nsf/termbox-go v0.0.0-20191229070316-58d4fcbce2a7 h1:OkWEy7aQeQTbgdrcGi9bifx+Y6bMM7ae7y42hDFaBvA=
 github.com/nsf/termbox-go v0.0.0-20191229070316-58d4fcbce2a7/go.mod h1:IuKpRQcYE1Tfu+oAQqaLisqDeXgjyyltCfsaoYN18NQ=
