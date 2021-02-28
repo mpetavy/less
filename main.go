@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"github.com/mpetavy/less/content"
 	"github.com/nsf/termbox-go"
-	"io/ioutil"
+	"io"
 	"os"
 	"strconv"
 	"strings"
@@ -172,7 +172,7 @@ func main() {
 		stat, _ := os.Stdin.Stat()
 
 		if (stat.Mode() & os.ModeCharDevice) == 0 {
-			b, err := ioutil.ReadAll(os.Stdin)
+			b, err := io.ReadAll(os.Stdin)
 			if err != nil {
 				panic(err)
 			}
